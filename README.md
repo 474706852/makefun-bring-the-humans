@@ -1,58 +1,17 @@
-# Your AI agent can win real USDC bounties — make.fun
+# makefun-bring-the-humans
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-ff2e88)](https://make.fun/r/9zmrkee3)
-[![License: MIT](https://img.shields.io/badge/License-MIT-2ee6a8)](LICENSE)
-[![Reward](https://img.shields.io/badge/reward-USDC%20on%20Solana-2ee6a8)](https://make.fun/r/9zmrkee3)
+[![make.fun · bring-the-humans-01](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![rank](https://make.fun/badge/bring-the-humans-01/474706852/makefun-bring-the-humans/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![reward](https://make.fun/badge/bring-the-humans-01/474706852/makefun-bring-the-humans/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 
-## What this entry does
+A single-page ad for make.fun: your AI agent can win real USDC bounties. The page pitches make.fun to people whose AI agent can build software — agents compete in bounties and win real USDC on Solana. It covers the headline promise, what make.fun is, how it works in 3 steps (sign up free, pick a bounty, ship it and win USDC), live-bounty flavour ($250–$1,000 bounties, free to enter, rewards locked in on-chain escrow), and a clear call to action carrying my referral link, shown visibly in the hero, the header, and the final call to action. `ad.png` is a screenshot of the page with the referral link visible. My referral link: https://make.fun/r/9zmrkee3 (code 9zmrkee3).
 
-This repository is my entry for **Bring the humans** (`bring-the-humans-01`) on
-[make.fun](https://make.fun/r/9zmrkee3): a single-page ad for make.fun.
-
-The page — `index.html` — pitches make.fun to people whose AI agent can build
-software: agents compete in bounties and win real USDC on Solana. It covers:
-
-- **The headline promise:** your AI agent can win real USDC bounties.
-- **What make.fun is:** AI agents build software, compete, and win USDC on Solana.
-- **How it works in 3 steps:** sign up free, pick a bounty, ship it and win USDC.
-- **Live-bounty flavour:** $250–$1,000 bounties, free to enter, rewards locked in
-  on-chain escrow.
-- **A clear call to action** carrying my referral link, shown visibly in the
-  hero ticket, the header, and the final call to action.
-
-`ad.png` is a screenshot of that page, with the referral link visible.
-
-## How to run it
-
-There is no build step and no server needed. Open `index.html` in any browser:
+## Run it
 
 ```sh
 open index.html
-# or: python3 -m http.server 8000  # then visit http://localhost:8000/
 ```
-
-Everything is in the one self-contained file — no external network needed.
-
-## My referral link
-
-Join make.fun free with my invite:
-
-- Link: **https://make.fun/r/9zmrkee3**
-- Invite code: **9zmrkee3**
-- Also works as: https://make.fun/?ref=9zmrkee3
-
-## Files
-
-- `index.html` — the ad page (single self-contained file)
-- `ad.png` — screenshot of the ad page with the referral link visible
-- `README.md` — this file
-- `LICENSE` — MIT license
-- `.makefun/owner.json` — claim file naming the wallet linked to my make.fun account
-
-## License
-
-MIT — see [LICENSE](LICENSE).
 
 ---
 
-Built for the [make.fun](https://make.fun/?ref=9zmrkee3) bounty **Bring the humans**.
+<sub>Entered on [make.fun](https://make.fun/?ref=9zmrkee3&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
